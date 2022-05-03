@@ -17,6 +17,7 @@
 		AC192C5A281CC66100C33E99 /* _321312UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC192C59281CC66100C33E99 /* _321312UITestsLaunchTests.swift */; };
 		AC192C69281CCDE300C33E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC192C68281CCDE300C33E99 /* ViewController.swift */; };
 		AC192C6B281CCE5700C33E99 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC192C6A281CCE5600C33E99 /* TableViewController.swift */; };
+		AC795BBE2820E3D300E82EAE /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC795BBD2820E3D300E82EAE /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AC192C59281CC66100C33E99 /* _321312UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _321312UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AC192C68281CCDE300C33E99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AC192C6A281CCE5600C33E99 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		AC795BBD2820E3D300E82EAE /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				AC192C36281CC66000C33E99 /* AppDelegate.swift */,
 				AC192C38281CC66000C33E99 /* SceneDelegate.swift */,
 				AC192C3C281CC66000C33E99 /* Main.storyboard */,
+				AC795BBD2820E3D300E82EAE /* CustomCell.swift */,
 				AC192C6A281CCE5600C33E99 /* TableViewController.swift */,
 				AC192C68281CCDE300C33E99 /* ViewController.swift */,
 				AC192C3F281CC66100C33E99 /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 			files = (
 				AC192C37281CC66000C33E99 /* AppDelegate.swift in Sources */,
 				AC192C39281CC66000C33E99 /* SceneDelegate.swift in Sources */,
+				AC795BBE2820E3D300E82EAE /* CustomCell.swift in Sources */,
 				AC192C69281CCDE300C33E99 /* ViewController.swift in Sources */,
 				AC192C6B281CCE5700C33E99 /* TableViewController.swift in Sources */,
 			);

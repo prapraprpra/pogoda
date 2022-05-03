@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+var arrayCountries = ["Russia", "Germany", "France", "USA"]
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
